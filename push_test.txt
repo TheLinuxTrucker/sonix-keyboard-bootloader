@@ -1,1 +1,2 @@
 run github run
+https://github.com/TheLinuxTrucker/sonix-flasher
